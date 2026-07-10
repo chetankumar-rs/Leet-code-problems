@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
