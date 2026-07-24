@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
