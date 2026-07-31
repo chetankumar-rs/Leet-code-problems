@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
