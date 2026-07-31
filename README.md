@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
