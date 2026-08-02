@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
+| [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
