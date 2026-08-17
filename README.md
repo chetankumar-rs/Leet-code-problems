@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0168-excel-sheet-column-title) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
 ## Memoization
 |  |
 | ------- |
