@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -134,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
