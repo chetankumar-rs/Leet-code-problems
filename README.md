@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -126,16 +127,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0168-excel-sheet-column-title) |
+| [1927-sum-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |
