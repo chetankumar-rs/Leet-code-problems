@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0658-find-k-closest-elements) |
+| [0835-image-overlap](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1563-stone-game-v) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0835-image-overlap) |
 ## String
 |  |
 | ------- |
