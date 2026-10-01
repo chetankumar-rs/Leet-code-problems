@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0168-excel-sheet-column-title) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1927-sum-game) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
