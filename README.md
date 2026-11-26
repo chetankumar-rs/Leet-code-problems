@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chetankumar-rs/Leet-code-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
